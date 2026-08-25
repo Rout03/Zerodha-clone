@@ -287,7 +287,7 @@ code {
 }
 
 .menu.selected {
-  color: rgb(245, 104, 52);
+  color: rgb(229, 196, 184);
 }
 
 hr {
@@ -315,7 +315,7 @@ hr {
   border-radius: 100%;
   text-align: center;
   display: flex;
-  background: rgb(252, 229, 252);
+  background: rgb(28, 48, 197);
   margin-right: 8px;
 }
 
